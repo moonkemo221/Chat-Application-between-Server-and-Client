@@ -8,7 +8,7 @@ A real-time chat application built with **Python**, **Tkinter** for the GUI, and
 Perfect for learning networking basics or as a template for more complex projects!
 
 # ?? Screenshot
-![Chat App Screenshot](images/screenshot.png) *(Replace with your actual screenshot)*
+![Chat App Screenshot]([images/screenshot.png](https://ibb.co/271zFhLK)) *(Replace with your actual screenshot)*
 
 # ?? Features
 - **Server & Client Modes**: Run as either a server or client from the same app.
