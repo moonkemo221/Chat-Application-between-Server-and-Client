@@ -10,7 +10,9 @@ Perfect for learning networking basics or as a template for more complex project
 # ?? Screenshot
 ![Chat App Screenshot]![Chat Application ](https://github.com/user-attachments/assets/1b6034d4-1a01-4e4b-a96d-1b0872f4fe6f)
 
-# ?? Features
+# ?? A link to a detailed explanation of the code file is on my YouTube channel.
+https://www.youtube.com/watch?v=7XzHFM_FGSQ
+# ?? Features  
 - **Server & Client Modes**: Run as either a server or client from the same app.
 - **Multi-Threading**: Handles multiple connections without freezing the GUI.
 - **User-Friendly GUI**: Built with Tkinter (tabs for server/client modes).
